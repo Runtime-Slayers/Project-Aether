@@ -1,0 +1,17 @@
+[{"stream_name":"stdout","time":10.158410018,"data":"Device: cuda\n"}
+,{"stream_name":"stdout","time":16.502319023,"data":"Epoch 1/40 | train_loss=0.5689 val_loss=0.3422 val_acc=0.8100\n"}
+,{"stream_name":"stdout","time":16.654410718,"data":"Epoch 2/40 | train_loss=0.0340 val_loss=0.3126 val_acc=0.8850\n"}
+,{"stream_name":"stdout","time":16.800421995,"data":"Epoch 3/40 | train_loss=0.0021 val_loss=0.0133 val_acc=0.9950\n"}
+,{"stream_name":"stdout","time":16.808569518,"data":"Target achieved. Stopping early.\n"}
+,{"stream_name":"stdout","time":17.354831006,"data":"Best val acc: 0.995\n"}
+,{"stream_name":"stdout","time":17.354863339,"data":"Saved checkpoint: multiclass_raw_best_1768878739.pt\n"}
+,{"stream_name":"stdout","time":17.354870389,"data":"Saved outputs in outputs/\n"}
+,{"stream_name":"stderr","time":21.097726556,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":21.097770421,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":21.322665634,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":21.322696406,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":21.980559776,"data":"/usr/local/lib/python3.12/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":21.98066309,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":22.057018132,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":22.890462529,"data":"[NbConvertApp] Writing 320896 bytes to __results__.html\n"}
+]

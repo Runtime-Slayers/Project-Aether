@@ -1,0 +1,11 @@
+torch>=2.9.1
+pymdp
+networkx
+h5py
+easyocr
+matplotlib
+seaborn
+jupyter
+kaggle
+numpy
+scikit-learn

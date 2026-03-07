@@ -1,0 +1,10 @@
+{
+  "id": "rampanther/gnesai-multiclass-train",
+  "title": "G-NeSAI Multiclass Training (Raw IQ) - GPU",
+  "code_file": "run_training.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true
+}

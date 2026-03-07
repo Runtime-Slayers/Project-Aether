@@ -1,0 +1,10 @@
+{
+  "id": "gnesai-full-training-internet",
+  "title": "G-NeSAI Full Training Pipeline (internet-enabled)",
+  "code_file": "run_on_kaggle.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true
+}

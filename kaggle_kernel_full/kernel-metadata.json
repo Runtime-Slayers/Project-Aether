@@ -1,0 +1,10 @@
+{
+  "id": "gnesai-full-training",
+  "title": "G-NeSAI Full Training Pipeline",
+  "code_file": "run_on_kaggle.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false
+}

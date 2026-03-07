@@ -1,0 +1,10 @@
+{
+  "id": "gnesai-full-training-seed2-1768973709",
+  "title": "G-NeSAI Full Training (seed=2)",
+  "code_file": "run_on_kaggle.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false
+}

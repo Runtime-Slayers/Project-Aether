@@ -1,0 +1,10 @@
+{
+  "id": "rampanther/gnesai-ablation-sweeps-001",
+  "title": "G-NeSAI Ablation Sweeps (Spectral vs Raw) - GPU (v001)",
+  "code_file": "run_ablation.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true
+}

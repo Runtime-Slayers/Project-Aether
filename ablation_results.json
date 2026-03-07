@@ -1,0 +1,8 @@
+{
+  "ns200_ne1": {
+    "error": "only integer scalar arrays can be converted to a scalar index"
+  },
+  "ns500_ne1": {
+    "error": "only integer scalar arrays can be converted to a scalar index"
+  }
+}
